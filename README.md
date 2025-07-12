@@ -1,4 +1,4 @@
-#Reto 8 POO 
+# Reto 8 POO 
 
 Este es un sistema básico de pedidos para un restaurante del reto 3. El menú está organizado por categorías (Bebidas, Aperitivos, Platos Fuertes) y permite al usuario hacer un pedido desde la consola.
 
